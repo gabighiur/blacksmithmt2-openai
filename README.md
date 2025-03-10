@@ -1,0 +1,2 @@
+# fierarul-OpenAIBot
+Discord bot
